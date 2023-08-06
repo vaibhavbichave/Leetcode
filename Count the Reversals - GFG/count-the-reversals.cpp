@@ -32,7 +32,6 @@ int countRev (string s)
     int y = st.size();
     while(!st.empty() && st.top()=='{') st.pop();
     int z = st.size();
-    y -= z;
-    return z/2+(z-2*(z/2))+y/2+(y-2*(y/2));
+    return (y-z)/2+z/2+2*(z-2*(z/2));
     
 }
