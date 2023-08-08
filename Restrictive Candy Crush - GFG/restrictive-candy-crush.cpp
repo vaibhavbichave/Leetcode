@@ -15,7 +15,7 @@ class Solution{
             if(!st.empty() && st.top().first==s[i]) st.top().second++;
             else st.push({s[i],1});
             st.top().second%=k;
-            while(!st.empty() && st.top().second%k==0) st.pop();
+            while(!st.empty() && !st.top().second) st.pop();
         }
         while(!st.empty()){
             while(st.top().second--){
