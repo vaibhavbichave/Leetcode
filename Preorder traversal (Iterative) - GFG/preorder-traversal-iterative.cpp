@@ -97,17 +97,20 @@ struct Node {
 */
 class Solution{
     public:
-    void helper(vector<int>&v, Node* root){
-        if(root){
-            v.push_back(root->data);
-            helper(v,root->left);
-            helper(v,root->right);
-        }
-    }
+    
     vector<int> preOrder(Node* root)
     {
        vector<int>v;
-       helper(v,root);
+       stack<Node*>st;
+       if(!root) return v;
+       st.push(root);
+       while(!st.empty()){
+           Node *node = st.top();
+           st.pop();
+           v.push_back(node->data);
+           if(node->right) st.push(node->right);
+           if(node->left) st.push(node->left);
+       }
        return v;
     }
 };
