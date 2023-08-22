@@ -12,6 +12,8 @@ class Solution
     //to make the matrix beautiful.
     int findMinOpeartion(vector<vector<int> > matrix, int n)
     {
+        
+        int i=0,j=0,maxi=0, result = 0;
         vector<int>row(n,0), col(n,0);;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
@@ -19,20 +21,26 @@ class Solution
                 col[j] += matrix[i][j];
             }
         }
-        
-        int i=0,j=0,maxi=0, result = 0;
         for(int x:row) maxi = max(maxi, x);
         for(int x:col) maxi = max(maxi, x);
         while(i<n && j<n){
-            int mini = min(maxi - row[i], maxi - col[j]);
-            result += mini;
-            row[i] += mini;
-            col[j] += mini;
-            if(row[i]==maxi) i++;
-            if(col[j]==maxi) j++;
+            int diff = 0;
+            if(row[i] > col[j]){
+                diff = maxi - row[i];
+                col[j] += diff;
+                i++;
+            }else if(row[i] < col[j]){
+                diff = maxi - col[j];
+                row[i] += diff;
+                j++;
+            }else{
+                diff = maxi - col[j];
+                i++; j++;
+            }
+            result += diff;
         }
         while(i<n){
-            result +=( maxi - row[i]);
+            result += (maxi - row[i]);
             i++;
         }
          while(j<n){
