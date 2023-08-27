@@ -14,11 +14,8 @@ public:
 	{
 	    int sz = 0, count=0;
 	    for(auto x:s){
-	        if(isdigit(x)){
-	            sz = sz*10 + (x-'0');
-	        }else{
-	            count++;
-	        }
+	        if(isdigit(x)) sz = sz*10 + (x-'0');
+	        else count++;
 	    }
 	    return sz==count;
 	}
