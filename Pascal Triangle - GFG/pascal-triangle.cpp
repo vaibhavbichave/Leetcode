@@ -11,7 +11,6 @@ public:
     vector<ll> nthRowOfPascalTriangle(int n) {
         int MOD = 1e9+7;
         vector<ll>v(1,1);
-        ans.push_back(v);
         for(int i=1;i<n;i++){
             vector<ll>vv(i+1,1);
             for(int j=1;j<v.size();j++){
