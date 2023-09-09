@@ -97,18 +97,27 @@ struct Node {
 class Solution
 {
     public:
-    int result = 0;
-    void inorder(Node *root, int &K){
-        if(root && K){
-            inorder(root->right,K);
-            if(K==1) result = root->data; K--;
-            inorder(root->left,K);
-        }
-    }
+    
     int kthLargest(Node *root, int K)
     {
-        inorder(root, K);
-        return result;
+        if(root){
+            stack <Node*> s;
+            Node* currentNode = root;
+            while(!s.empty() || currentNode != NULL) {
+                if(currentNode != NULL) {
+                    s.push(currentNode);
+                    currentNode = currentNode->right;
+                }
+                else {
+                    currentNode = s.top();
+                    s.pop();
+                    K = K - 1;
+                    if (K == 0) return currentNode->data;
+                    currentNode = currentNode->left;
+                }
+            }
+        }
+        return -1;
     }
 };
 
