@@ -7,19 +7,25 @@ typedef long long int ll;
 class Solution
 {
     public:
-    int maxLoot(int arr[],int n, vector<int>&dp){
-        if(n < 0) return 0;
-        if(n == 0) return arr[0];
-        if(dp[n] != -1 ) return dp[n];
-        int pick = arr[n] +  maxLoot(arr, n-2, dp);
-        int notPick = maxLoot(arr, n-1, dp);
-        return dp[n] = max(pick, notPick);
-    }
     //Function to find the maximum money the thief can get.
     int FindMaxSum(int arr[], int n)
     {
-        vector<int>dp(n+1,-1);
-        return maxLoot(arr,n-1,dp);
+        if (n == 0) return 0;
+  
+        int value1 = arr[0];
+        if (n == 1) return value1;
+      
+        int value2 = max(arr[0], arr[1]);
+        if (n == 2) return value2;
+      
+        int max_val;
+        for (int i = 2; i < n; i++) {
+            max_val = max(arr[i] + value1, value2);
+            value1 = value2;
+            value2 = max_val;
+        }
+      
+        return max_val;
     }
 };
 
