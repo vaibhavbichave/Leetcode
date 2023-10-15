@@ -31,15 +31,16 @@ int main() {
 
 vector<long long> printFirstNegativeInteger(long long int A[],
                                              long long int N, long long int K) {
-    vector<long long>v;
+    vector<long long>v(N-K+1, 0);
     for(int pos=0,i=0,j=K-1;j<N;i++,j++){
         while(pos<i) pos++;
         while(pos<=j) {
             if(A[pos]>0) pos++;
-            else break;
+            else {
+                v[i]= A[pos];
+                break;
+            }
         }
-        if(pos<=j && A[pos]<0) v.push_back(A[pos]);
-        else v.push_back(0);
     }
     return v;
  }
