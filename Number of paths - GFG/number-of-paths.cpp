@@ -27,7 +27,7 @@ class Solution
     long long  numberOfPaths(int m, int n)
     {
         long long ans = 1;
-        long long mod = 1000000007LL; // Use 'LL' to indicate a long long literal
+        long long mod = 1e9+7; 
         for (long long i = n; i <= (n + m - 2); i++) {
             ans = (ans * i) % mod;
             long long invert = modInv(i - n + 1, mod);
