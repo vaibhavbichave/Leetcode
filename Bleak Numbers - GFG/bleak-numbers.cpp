@@ -15,8 +15,8 @@ public:
         return count;
     }
     bool is_bleak(int n){
-        for (int x = n - 32; x < n; x++)
-            if (x + countSetBits(x) == n)
+        for (int x = 1; x < 32; x++)
+            if (x == countSetBits(n-x))
                 return false;
      
         return true;
