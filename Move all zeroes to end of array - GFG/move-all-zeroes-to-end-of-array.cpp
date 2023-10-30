@@ -7,12 +7,9 @@ using namespace std;
 class Solution{
 public:
 	void pushZerosToEnd(int arr[], int n) {
-	    int i=0;
-	    for(int j=0;j<n;j++, i++){
-	        while(i<n && arr[i]==0) i++;
-	        if(i<n) arr[j] = arr[i];
-	        else arr[j]=0;
-	    }
+	    int count = 0; 
+        for (int i = 0; i < n; i++) if (arr[i] != 0) arr[count++] = arr[i];
+        while (count < n) arr[count++] = 0;
 	}
 };
 
