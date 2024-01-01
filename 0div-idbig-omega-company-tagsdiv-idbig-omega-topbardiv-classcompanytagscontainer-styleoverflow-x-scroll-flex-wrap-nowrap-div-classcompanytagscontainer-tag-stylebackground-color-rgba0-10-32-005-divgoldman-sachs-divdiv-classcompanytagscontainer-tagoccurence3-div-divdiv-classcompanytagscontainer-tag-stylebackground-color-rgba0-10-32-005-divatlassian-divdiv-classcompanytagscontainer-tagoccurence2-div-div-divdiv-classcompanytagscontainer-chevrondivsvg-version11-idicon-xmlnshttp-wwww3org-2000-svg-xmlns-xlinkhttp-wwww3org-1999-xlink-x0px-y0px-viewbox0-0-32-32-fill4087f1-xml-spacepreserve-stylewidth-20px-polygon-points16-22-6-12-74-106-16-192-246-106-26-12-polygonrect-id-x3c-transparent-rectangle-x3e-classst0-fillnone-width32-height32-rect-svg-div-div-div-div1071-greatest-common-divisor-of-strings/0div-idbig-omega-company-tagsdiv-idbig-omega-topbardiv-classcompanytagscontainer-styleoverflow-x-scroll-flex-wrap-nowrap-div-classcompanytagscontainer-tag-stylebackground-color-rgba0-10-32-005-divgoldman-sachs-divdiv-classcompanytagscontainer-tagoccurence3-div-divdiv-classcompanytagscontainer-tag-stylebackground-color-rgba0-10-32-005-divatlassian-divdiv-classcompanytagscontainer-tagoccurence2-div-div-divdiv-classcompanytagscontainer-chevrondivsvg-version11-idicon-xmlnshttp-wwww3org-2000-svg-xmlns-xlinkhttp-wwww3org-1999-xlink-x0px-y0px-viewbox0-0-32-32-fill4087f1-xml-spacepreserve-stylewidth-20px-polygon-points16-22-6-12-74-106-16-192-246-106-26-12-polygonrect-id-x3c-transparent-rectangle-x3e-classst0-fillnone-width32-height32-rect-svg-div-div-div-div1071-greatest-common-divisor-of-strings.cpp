@@ -1,17 +1,19 @@
 class Solution {
 public:
-    bool check(string str, string result, int n, int x){
-        int i=0;
-        while(i<n && str[i]==result[i%x]) i++;
-        return i==n;
+    bool check(string str1, string str2, int n, int m, int x){
+        int i=0, j=0;
+        while(i<n && str1[i]==str1[i%x]) i++;
+        if(i<n) return false;
+        while(j<m && str2[j]==str2[j%x]) j++;
+        if(j<m) return false;
+        return true;
     }
     string gcdOfStrings(string str1, string str2) {
         int n = str1.size(), m = str2.size();
-        for(int i=min(n,m);i>0;i--){
-            if(n%i==0 && m%i==0){
-                string result = str1.substr(0,i);
-                if(check(str1,result,n,i) && check(str2,result,m,i)){
-                    return result;
+        for(int i=__gcd(n,m);i>0;i--){
+            if(n%i==0 && m%i==0 && str1.substr(0,i)==str2.substr(0,i)){
+                if(check(str1,str2,n,m,i)){
+                    return str1.substr(0,i);
                 }
             }
         }
