@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 # Math
 |  |
 | ------- |
@@ -30,3 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/0002-add-two-numbers) |
+# Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
