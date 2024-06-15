@@ -20,25 +20,24 @@ public:
         return length;
     }
     ListNode* rotateRight(ListNode* head, int k) {
-        int n = getLength(head);
-        if (n <= 1) {
-            return head;
+        ListNode* result = head;
+        if (head && head->next) {
+            int n = getLength(head);
+            k = (n - k % n) % n;
+            if (k > 0) {
+                ListNode* node = head;
+                for (int i = 0; i < k - 1; i++) {
+                    node = node->next;
+                }
+                result = node->next;
+                node->next = nullptr;
+                node = result;
+                while (node->next) {
+                    node = node->next;
+                }
+                node->next = head;
+            }
         }
-        k = (n - k % n) % n;
-        if (k == 0) {
-            return head;
-        }
-        ListNode* node = head;
-        for (int i = 0; i < k - 1; i++) {
-            node = node->next;
-        }
-        ListNode* result = node->next;
-        node->next = nullptr;
-        node = result;
-        while (node->next) {
-            node = node->next;
-        }
-        node->next = head;
         return result;
     }
 };
