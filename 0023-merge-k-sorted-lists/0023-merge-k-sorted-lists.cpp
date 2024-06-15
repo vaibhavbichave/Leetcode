@@ -11,23 +11,22 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>minheap;
-        for(int i=0;i<lists.size();i++){
-            if(lists[i]!=NULL){
-                minheap.push({lists[i]->val,i});
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minheap;
+        for (int i = 0; i < lists.size(); i++) {
+            if (lists[i]) {
+                minheap.push({lists[i]->val, i});
             }
         }
-        ListNode* node=new ListNode(0);
-        ListNode* head=node;
-        while(!minheap.empty()){
-            node->next=new ListNode();
-            node=node->next;  
-            pair<int,int>x=minheap.top();
+        ListNode* node = new ListNode(0);
+        ListNode* head = node;
+        while (!minheap.empty()) {
+            auto top = minheap.top();
             minheap.pop();
-            node->val=x.first;
-            if(lists[x.second]->next!=NULL){
-                lists[x.second]=lists[x.second]->next;
-                minheap.push({lists[x.second]->val,x.second});
+            node->next = new ListNode(top.first);
+            node = node->next;
+            if (lists[top.second]->next) {
+                lists[top.second] = lists[top.second]->next;
+                minheap.push({lists[top.second]->val, top.second});
             }
         }
         return head->next;
