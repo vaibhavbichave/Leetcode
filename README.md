@@ -18,3 +18,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/vaibhavbichave/Leetcode/tree/master/0502-ipo) |
+# Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/0002-add-two-numbers) |
+# Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/0002-add-two-numbers) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/0002-add-two-numbers) |
