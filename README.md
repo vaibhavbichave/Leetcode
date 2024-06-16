@@ -5,10 +5,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/vaibhavbichave/Leetcode/tree/master/0502-ipo) |
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/vaibhavbichave/Leetcode/tree/master/0502-ipo) |
 # Sorting
 |  |
