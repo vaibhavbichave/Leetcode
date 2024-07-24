@@ -1,30 +1,27 @@
 class Solution {
 public:
-    vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
-        vector<pair<long long, long long>> helper;
-        for (long long x : nums) {
-            long long original = x, val = 0, base = 1;
-            while (x) {
-                int map = mapping[x % 10];
-                val = base * map + val;
-                base *= 10;
-                x /= 10;
-            }
-            if (original == 0) {
-                helper.push_back({mapping[x], original});
-            } else {
-                helper.push_back({val, original});
-            }
+    int convert(int x, vector<int>& mapping) {
+        int val = 0;
+        if (x == 0) return mapping[val];
+        for (int pow10 = 1; x > 0; pow10 *= 10) {
+            auto [q, r] = div(x, 10);
+            val += mapping[r] * pow10;
+            x = q;
         }
-        sort(helper.begin(), helper.end(),
-             [&](pair<long long, long long> a, pair<long long, long long> b) {
-                 return a.first < b.first;
-             });
+        return val;
+    }
 
-        vector<int> result;
-        for (auto x : helper) {
-            result.push_back(x.second);
+    vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
+        const int n = nums.size();
+        vector<array<int, 3>> mapNum(n);
+        for (int idx = 0; idx < n; idx++) {
+            int x = nums[idx];
+            mapNum[idx] = {convert(x, mapping), idx, x};
         }
-        return result;
+        sort(mapNum.begin(), mapNum.end());
+        for (int i = 0; i < n; i++) {
+            nums[i] = mapNum[i][2];
+        }
+        return nums;
     }
 };
