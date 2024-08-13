@@ -8,14 +8,15 @@ using namespace std;
 class Solution{
 	public:
    	vector<int> common_digits(vector<int>nums){
-   	    set<int>st;
+   	    vector<int>freq(10, 0);
    	    for(int x:nums){
    	        while(x){
-   	            st.insert(x%10);
+   	            freq[x%10]++;
    	            x/=10;
    	        }
    	    }
-       	vector<int>v(st.begin(), st.end());
+       	vector<int>v;
+       	for(int i=0;i<10;i++) if(freq[i]>0) v.push_back(i);
         return v;
    	}    
 };
