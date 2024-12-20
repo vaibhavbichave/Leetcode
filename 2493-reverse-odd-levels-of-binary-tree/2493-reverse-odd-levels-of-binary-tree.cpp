@@ -1,38 +1,16 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
- * };
- */
 class Solution {
+private:
+    void traverseDFS(TreeNode* leftChild, TreeNode* rightChild, int level) {
+        if (leftChild && rightChild) {
+            if (level & 1) swap(leftChild->val, rightChild->val);
+            traverseDFS(leftChild->left, rightChild->right, level + 1);
+            traverseDFS(leftChild->right, rightChild->left, level + 1);
+        }
+    }
+
 public:
     TreeNode* reverseOddLevels(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        bool odd = true;
-        while (!q.empty()) {
-            int n = q.size();
-            vector<TreeNode*> v;
-            for (int i = 0; i < n; i++) {
-                TreeNode* node = q.front();
-                v.push_back(node);
-                q.pop();
-                if (node->left)
-                    q.push(node->left);
-                if (node->right)
-                    q.push(node->right);
-            }
-            odd = !odd;
-            if (odd)
-                for (int i = 0; i < n; i += 2)
-                    swap(v[i]->val, v[n - 1 - i]->val);
-        }
+        traverseDFS(root->left, root->right, 1);
         return root;
     }
 };
