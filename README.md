@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/vaibhavbichave/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vaibhavbichave/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/vaibhavbichave/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -287,5 +288,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhavbichave/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
