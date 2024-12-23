@@ -275,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/vaibhavbichave/Leetcode/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
