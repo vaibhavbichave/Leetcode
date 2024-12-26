@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Matrix
 |  |
@@ -327,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
