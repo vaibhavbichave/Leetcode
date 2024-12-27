@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
+| [1063-best-sightseeing-pair](https://github.com/vaibhavbichave/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/vaibhavbichave/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/vaibhavbichave/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Matrix
 |  |
