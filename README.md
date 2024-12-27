@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhavbichave/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vaibhavbichave/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhavbichave/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhavbichave/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vaibhavbichave/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhavbichave/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2868-continuous-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Data Stream
