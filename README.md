@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibhavbichave/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhavbichave/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhavbichave/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Two Pointers
