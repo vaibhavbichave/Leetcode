@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vaibhavbichave/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/vaibhavbichave/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vaibhavbichave/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -351,4 +352,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/vaibhavbichave/Leetcode/tree/master/0393-utf-8-validation) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vaibhavbichave/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
