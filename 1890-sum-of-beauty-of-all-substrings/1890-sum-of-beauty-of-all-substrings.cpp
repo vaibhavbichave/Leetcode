@@ -6,15 +6,14 @@ public:
             unordered_map<char, int> mp;
             for (int j = i; j < n; j++) {
                 mp[s[j]]++;
-                int leastFrequent = INT_MAX, mostFrequent = INT_MIN;
-                for (auto it : mp) {
-                    leastFrequent = min(leastFrequent, it.second);
-                    mostFrequent = max(mostFrequent, it.second);
+                int mini = INT_MAX, maxi = INT_MIN;
+                for (auto [x, count] : mp) {
+                    mini = min(mini, count);
+                    maxi = max(maxi, count);
                 }
-                ans += mostFrequent - leastFrequent;
+                ans += maxi - mini;
             }
         }
-
         return ans;
     }
 };
