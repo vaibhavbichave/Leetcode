@@ -3,7 +3,7 @@ public:
     int numberOfSpecialChars(string word) {
         int count = 0, n = word.size();
         vector<int> v(256, 0);
-        vector<int> first(26, -1), last(26, 0);
+        vector<int> first(26, -1), last(26, -1);
         for (int i = 0; i < n; i++) {
             if ('a' <= word[i] && word[i] <= 'z')
                 last[word[i] - 'a'] = i;
