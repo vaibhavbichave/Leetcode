@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibhavbichave/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibhavbichave/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibhavbichave/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Rolling Hash
