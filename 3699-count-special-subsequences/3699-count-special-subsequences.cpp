@@ -1,17 +1,14 @@
 class Solution {
 public:
-    long long numberOfSubsequences(vector<int>& n) {
-        long long res = 0, size = n.size();
-        vector<vector<int>> cnt(1001, vector<int>(1001, 0));
-        for (int q = n.size() - 5; q >= 2; q--) {
-            for (int r = q + 2, s = q + 4; s < size; s++) {
-                int f = gcd(n[r], n[s]);
-                cnt[n[r] / f][n[s] / f]++;
-            }
-            for (int p = 0; p <= q - 2; p++) {
-                int f = gcd(n[p], n[q]);
-                res += cnt[n[q] / f][n[p] / f];
-            }
+    long long numberOfSubsequences(vector<int>& nums) {
+        int n = nums.size();
+        long long res = 0;
+        unordered_map<double, int> cnt;
+        for (int r = 4; r < n - 2; ++r) {
+            for (int p = 0, q = r - 2; p <= q - 2; ++p)
+                cnt[1.0 * nums[p] / nums[q]]++;
+            for (int s = r + 2; s < n; ++s)
+                res += cnt[1.0 * nums[s] / nums[r]];
         }
         return res;
     }
