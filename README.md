@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0393-utf-8-validation](https://github.com/vaibhavbichave/Leetcode/tree/master/0393-utf-8-validation) |
 | [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/vaibhavbichave/Leetcode/tree/master/1955-seat-reservation-manager) |
