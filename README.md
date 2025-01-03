@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vaibhavbichave/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vaibhavbichave/Leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vaibhavbichave/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [1333-sort-the-jumbled-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhavbichave/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -292,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vaibhavbichave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -343,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/vaibhavbichave/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
