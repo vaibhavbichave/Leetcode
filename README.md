@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
+| [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhavbichave/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavbichave/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibhavbichave/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/vaibhavbichave/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavbichave/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1955-seat-reservation-manager](https://github.com/vaibhavbichave/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Breadth-First Search
 |  |
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [2868-continuous-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
