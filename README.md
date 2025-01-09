@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibhavbichave/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/vaibhavbichave/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vaibhavbichave/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/vaibhavbichave/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibhavbichave/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/vaibhavbichave/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
