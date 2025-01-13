@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vaibhavbichave/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
 | ------- |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vaibhavbichave/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/vaibhavbichave/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
