@@ -1,12 +1,12 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        int sum = 0;
-        vector<int> v(26, 0);
-        for (char chr : s) v[chr - 'a']++;
-        for (int x : v)
-            if (x > 2) sum += (x & 1) ? 1 : 2;
-            else sum += x;
-        return sum;
+        int totalLength = 0;
+        unordered_map<char, int> mp;
+        for (char x : s) mp[x]++;
+        for (auto [chr, frequency] : mp)
+            if (frequency > 0)
+                totalLength += (frequency & 1) ? 1 : 2;
+        return totalLength;
     }
 };
