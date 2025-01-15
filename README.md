@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibhavbichave/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vaibhavbichave/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2509-minimize-xor) |
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0393-utf-8-validation](https://github.com/vaibhavbichave/Leetcode/tree/master/0393-utf-8-validation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vaibhavbichave/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2509-minimize-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
