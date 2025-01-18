@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/vaibhavbichave/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhavbichave/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/vaibhavbichave/Leetcode/tree/master/1972-rotating-the-box) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhavbichave/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vaibhavbichave/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
@@ -397,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavbichave/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1955-seat-reservation-manager](https://github.com/vaibhavbichave/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -486,4 +491,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibhavbichave/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
