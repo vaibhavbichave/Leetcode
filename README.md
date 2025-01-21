@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-minimum-distance-to-the-target-element](https://github.com/vaibhavbichave/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2089-maximum-matrix-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/vaibhavbichave/Leetcode/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibhavbichave/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/vaibhavbichave/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/vaibhavbichave/Leetcode/tree/master/2145-grid-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhavbichave/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhavbichave/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vaibhavbichave/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhavbichave/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhavbichave/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/vaibhavbichave/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibhavbichave/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Ordered Set
