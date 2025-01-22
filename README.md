@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/vaibhavbichave/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhavbichave/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/vaibhavbichave/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1876-map-of-highest-peak](https://github.com/vaibhavbichave/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhavbichave/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhavbichave/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhavbichave/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/vaibhavbichave/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/vaibhavbichave/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/vaibhavbichave/Leetcode/tree/master/2145-grid-game) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/vaibhavbichave/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vaibhavbichave/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
