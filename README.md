@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/vaibhavbichave/Leetcode/tree/master/0217-contains-duplicate) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0393-utf-8-validation](https://github.com/vaibhavbichave/Leetcode/tree/master/0393-utf-8-validation) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/vaibhavbichave/Leetcode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/vaibhavbichave/Leetcode/tree/master/0475-heaters) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vaibhavbichave/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhavbichave/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
