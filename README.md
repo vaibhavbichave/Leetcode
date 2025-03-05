@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vaibhavbichave/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhavbichave/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2630-alternating-digit-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2649-count-total-number-of-colored-cells](https://github.com/vaibhavbichave/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
