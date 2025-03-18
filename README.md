@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhavbichave/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2478-longest-nice-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibhavbichave/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhavbichave/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavbichave/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/vaibhavbichave/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2478-longest-nice-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0393-utf-8-validation](https://github.com/vaibhavbichave/Leetcode/tree/master/0393-utf-8-validation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vaibhavbichave/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibhavbichave/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
