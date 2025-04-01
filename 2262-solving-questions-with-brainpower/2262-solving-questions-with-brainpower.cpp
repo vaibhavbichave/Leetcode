@@ -1,15 +1,14 @@
 class Solution {
 public:
-    
-    long long dp[100002];
-    long long solve(vector<vector<int>>& questions,long long ind,long long result){
-        if(ind>=questions.size()) return 0;
-        if(dp[ind]!=-1) return dp[ind];
-        return dp[ind]=max(solve(questions,ind+1,result),solve(questions,ind+questions[ind][1]+1,result)+questions[ind][0]);
-    }
-    
     long long mostPoints(vector<vector<int>>& questions) {
-        memset(dp,-1,sizeof(dp));
-        return solve(questions,0,0);
+        int n = questions.size();
+        vector<long long> dp(n + 1, 0);
+        for (int i = n - 1; i >= 0; i--) {
+            int next = i + questions[i][1] + 1;
+            long long take = questions[i][0] + (next < n ? dp[next] : 0);
+            long long skip = dp[i + 1];
+            dp[i] = max(take, skip);
+        }
+        return dp[0];
     }
 };
