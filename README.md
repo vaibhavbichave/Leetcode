@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vaibhavbichave/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vaibhavbichave/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vaibhavbichave/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/vaibhavbichave/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/vaibhavbichave/Leetcode/tree/master/0952-word-subsets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibhavbichave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhavbichave/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -460,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/vaibhavbichave/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
