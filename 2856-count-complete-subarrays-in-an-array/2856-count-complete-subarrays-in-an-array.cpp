@@ -2,12 +2,12 @@ class Solution {
 public:
     int countCompleteSubarrays(vector<int>& nums) {
         int count = 0, n = nums.size();
-        unordered_set<int> st(nums.begin(), nums.end());
-        for (int j = 0; j < n; j++) {
-            unordered_set<int> st1;
-            for (int i = j; i < n; i++) {
-                st1.insert(nums[i]);
-                count += (st.size() == st1.size());
+        int uniq = unordered_set<int>(nums.begin(), nums.end()).size();
+        for (int i = 0; i < n; i++) {
+            unordered_set<int> st;
+            for (int j = i; j < n; j++) {
+                st.insert(nums[j]);
+                count += (st.size() == uniq);
             }
         }
         return count;
