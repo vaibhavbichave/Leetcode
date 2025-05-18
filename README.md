@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vaibhavbichave/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibhavbichave/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibhavbichave/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2509-minimize-xor) |
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -357,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/vaibhavbichave/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
 | ------- |
