@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0086-partition-list) |
 | [0475-heaters](https://github.com/vaibhavbichave/Leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0567-permutation-in-string) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
