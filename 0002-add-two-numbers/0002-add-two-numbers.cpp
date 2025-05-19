@@ -10,40 +10,34 @@
  */
 class Solution {
 public:
-    int getLength(ListNode* node) {
-        int length = 0;
-        ListNode* head = node;
-        while (head) {
-            head = head->next;
-            length++;
+    int getSize(ListNode* node) {
+        int count = 0;
+        ListNode* temp = node;
+        while (temp) {
+            count++;
+            temp = temp->next;
         }
-        return length;
+        return count;
     }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        int carry = 0;
-        ListNode* head = new ListNode(0);
-        ListNode* result = head;
-        if (getLength(l1) < getLength(l2)) {
-            head->next = l2;
-        } else {
-            head->next = l1;
-        }
-        while (l1 || l2) {
-            if (l1) {
-                carry += l1->val;
-                l1 = l1->next;
-            }
+        ListNode *result = new ListNode(0, l1);
+        ListNode *answer = result;
+        int n = getSize(l1), m = getSize(l2), carry = 0;
+        if (n < m)
+            return addTwoNumbers(l2, l1);
+        for (int i = 0; i < n; i++) {
+            result->next->val += carry;
             if (l2) {
-                carry += l2->val;
+                result->next->val += l2->val;
                 l2 = l2->next;
             }
-            head->next->val = carry % 10;
-            head = head->next;
-            carry /= 10;
+            carry = result->next->val/10;
+            result->next->val %= 10;
+            result = result->next;
         }
-        if (carry) {
-            head->next = new ListNode(carry);
+        if(carry){
+            result->next = new ListNode(carry);
         }
-        return result->next;
+        return answer->next;
     }
 };
