@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/vaibhavbichave/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3463-alternating-groups-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/vaibhavbichave/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vaibhavbichave/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
