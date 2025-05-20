@@ -5,7 +5,7 @@ public:
     int val;
     Node* next;
     Node* random;
-    
+
     Node(int _val) {
         val = _val;
         next = NULL;
@@ -17,17 +17,17 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        map<Node*,Node*>mp;
-        Node* p = head;
-        while(p){
-            mp[p]=new Node(p->val);
-            p = p->next;
+        unordered_map<Node*, Node*> mp;
+        Node * temp = head;
+        while(temp){
+            mp[temp] = new Node(temp->val);
+            temp = temp->next;
         }
-        p = head;
-        while(p){
-            mp[p]->next = mp[p->next];
-            if(p->random) mp[p]->random = mp[p->random];
-            p = p->next;
+        temp = head;
+        while(temp){
+            mp[temp]->next = mp[temp->next];
+            mp[temp]->random = mp[temp->random];
+            temp = temp->next;
         }
         return mp[head];
     }
