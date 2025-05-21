@@ -10,39 +10,46 @@
  */
 class Solution {
 public:
+    int getSize(ListNode* node) {
+        int count = 0;
+        ListNode* temp = node;
+        while (temp) {
+            count++;
+            temp = temp->next;
+        }
+        return count;
+    }
     ListNode* reverseList(ListNode* head) {
-        ListNode* cur= NULL;
-        while(head){
-            ListNode* next = head->next;
-            head->next = cur;
-            cur = head;
+        ListNode *next, *prev = nullptr;
+        while (head) {
+            next = head->next;
+            head->next = prev;
+            prev = head;
             head = next;
         }
-        return  cur;
+        return prev;
     }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        int carry = 0;
+        int n = getSize(l1), m = getSize(l2), carry = 0;
+        if (n < m)
+            return addTwoNumbers(l2, l1);
         l1 = reverseList(l1);
         l2 = reverseList(l2);
-        ListNode* result = new ListNode(-1);
-        ListNode* p = result;
-        while(carry || l1 || l2){
-            int first = 0, second = 0, data = 0;
-            if(l1){ 
-                first = l1->val;
-                l1 = l1->next;
-            }
-            if(l2){
-                second = l2->val;
+        ListNode* result = new ListNode(0, l1);
+        ListNode* answer = result;
+        for (int i = 0; i < n; i++) {
+            result->next->val += carry;
+            if (l2) {
+                result->next->val += l2->val;
                 l2 = l2->next;
             }
-            data = (first+second+carry)%10;
-            carry = (first+second+carry)/10;
-            p->next = new ListNode(data);
-            p = p->next;
+            carry = result->next->val / 10;
+            result->next->val %= 10;
+            result = result->next;
         }
-        result = result->next;
-        result = reverseList(result);
-        return result;
+        if (carry) {
+            result->next = new ListNode(carry);
+        }
+        return reverseList(answer->next);
     }
 };
