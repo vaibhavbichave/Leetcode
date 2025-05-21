@@ -17,10 +17,7 @@ public:
         while (fast && fast->next) {
             prev = slow;
             slow = slow->next;
-            fast = fast->next;
-            if (fast) {
-                fast = fast->next;
-            }
+            fast = fast->next->next;
         }
         prev->next = prev->next->next;
         return head;
