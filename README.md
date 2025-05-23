@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhavbichave/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0816-design-hashset](https://github.com/vaibhavbichave/Leetcode/tree/master/0816-design-hashset) |
+| [0859-design-circular-deque](https://github.com/vaibhavbichave/Leetcode/tree/master/0859-design-circular-deque) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0940-fruit-into-baskets](https://github.com/vaibhavbichave/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/vaibhavbichave/Leetcode/tree/master/0952-word-subsets) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavbichave/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0859-design-circular-deque](https://github.com/vaibhavbichave/Leetcode/tree/master/0859-design-circular-deque) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavbichave/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhavbichave/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/vaibhavbichave/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/vaibhavbichave/Leetcode/tree/master/0816-design-hashset) |
+| [0859-design-circular-deque](https://github.com/vaibhavbichave/Leetcode/tree/master/0859-design-circular-deque) |
 | [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1955-seat-reservation-manager](https://github.com/vaibhavbichave/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Breadth-First Search
@@ -679,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/vaibhavbichave/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/vaibhavbichave/Leetcode/tree/master/0816-design-hashset) |
+| [0859-design-circular-deque](https://github.com/vaibhavbichave/Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavbichave/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
