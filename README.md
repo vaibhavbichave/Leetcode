@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/vaibhavbichave/Leetcode/tree/master/0952-word-subsets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1500-count-largest-group](https://github.com/vaibhavbichave/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibhavbichave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/vaibhavbichave/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/vaibhavbichave/Leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavbichave/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/vaibhavbichave/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
