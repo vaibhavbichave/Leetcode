@@ -10,9 +10,9 @@
  */
 class Solution {
 public:
-    ListNode* reverse(int n, ListNode* curr, ListNode* prev) {
-        ListNode* next;
-        for (int i = 0; i < n && curr; i++) {
+     ListNode* reverse(ListNode* curr, ListNode* prev) {
+        ListNode *last = prev, *next;
+        while (curr != last) {
             next = curr->next;
             curr->next = prev;
             prev = curr;
@@ -31,9 +31,9 @@ public:
             if (j % 2 == 0) {
                 answer = first->next;
                 if (last)
-                    first->next = reverse(j, first->next, last->next);
+                    first->next = reverse(first->next, last->next);
                 else
-                    first->next = reverse(j, first->next, nullptr);
+                    first->next = reverse(first->next, nullptr);
             }
         }
         return head;
