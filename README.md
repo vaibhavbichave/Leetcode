@@ -696,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavbichave/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/vaibhavbichave/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/vaibhavbichave/Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
