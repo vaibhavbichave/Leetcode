@@ -11,20 +11,22 @@
 class Solution {
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
+        int len = 0;
         vector<ListNode*> v(k, nullptr);
-        int len=0;
-        for(auto i=head;i;i=i->next)
+        for (ListNode* i = head; i; i = i->next) {
             len++;
-         int n = len / k, r = len % k;
-        ListNode* node=head,*prev=NULL;
-        for(int i=0;node && i<k; i++){
-            int extra=r>0?1:0;r--;
-            v[i]=node;
-            for(int j=0;j<n+extra;j++){
-                prev= node;
-                node=node->next;
+        }
+        int n = len / k, rem = len % k;
+        ListNode* node = head;
+        for (int i = 0; node && i < k; i++) {
+            v[i] = node;
+            ListNode* prev = nullptr;
+            int extra = rem-- > 0 ? 1 : 0;
+            for (int j = 0; j < n + extra; j++) {
+                prev = node;
+                node = node->next;
             }
-            prev->next= NULL;
+            prev->next = nullptr;
         }
         return v;
     }
