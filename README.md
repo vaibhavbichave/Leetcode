@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/vaibhavbichave/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vaibhavbichave/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/vaibhavbichave/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vaibhavbichave/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/vaibhavbichave/Leetcode/tree/master/0952-word-subsets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1500-count-largest-group](https://github.com/vaibhavbichave/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibhavbichave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibhavbichave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vaibhavbichave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
