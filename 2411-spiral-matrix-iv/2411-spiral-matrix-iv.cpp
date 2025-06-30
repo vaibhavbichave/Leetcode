@@ -11,32 +11,32 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
-        int i = 0, j = 0, firstx = 0, lastx = m - 1, firsty = 0, lasty = n - 1;
-        vector<vector<int>> v(m, vector<int>(n, -1));
-        while (head && firstx <= lastx && firsty <= lasty) {
-            while (head && j <= lasty) {
-                v[i][j++] = head->val;
-                head = head->next;
+        ListNode* curr = head;
+        int top = 0, bottom = m - 1, left = 0, right = n - 1;
+        vector<vector<int>> ans(m, vector<int>(n, -1));
+        while (top <= bottom && left <= right && curr) {
+            for (int i = left; i <= right && curr; i++) {
+                ans[top][i] = curr->val;
+                curr = curr->next;
             }
-            i++, j--;
-            while (head && i <= lastx) {
-                v[i++][j] = head->val;
-                head = head->next;
+            top++;
+            for (int i = top; i <= bottom && curr; i++) {
+                ans[i][right] = curr->val;
+                curr = curr->next;
             }
-            i--, j--;
-            while (head && firsty <= j) {
-                v[i][j--] = head->val;
-                head = head->next;
+            right--;
+            for (int i = right; i >= left && curr; i--) {
+                ans[bottom][i] = curr->val;
+                curr = curr->next;
             }
-            i--, j++;
-            while (head && firstx < i) {
-                v[i--][j] = head->val;
-                head = head->next;
+            bottom--;
+            for (int i = bottom; i >= top && curr; i--) {
+                ans[i][left] = curr->val;
+                curr = curr->next;
             }
-            i++, j++;
-            firstx++, lastx--;
-            firsty++, lasty--;
+            left++;
         }
-        return v;
+
+        return ans;
     }
 };
