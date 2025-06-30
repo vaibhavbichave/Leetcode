@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhavbichave/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2411-spiral-matrix-iv](https://github.com/vaibhavbichave/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhavbichave/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibhavbichave/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibhavbichave/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vaibhavbichave/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/vaibhavbichave/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhavbichave/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## String
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/vaibhavbichave/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2411-spiral-matrix-iv](https://github.com/vaibhavbichave/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhavbichave/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhavbichave/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vaibhavbichave/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -721,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/vaibhavbichave/Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vaibhavbichave/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/vaibhavbichave/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
