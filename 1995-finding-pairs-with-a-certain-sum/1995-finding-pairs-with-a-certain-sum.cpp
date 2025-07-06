@@ -11,17 +11,15 @@ public:
     }
 
     void add(int index, int val) {
-        int curr = v2[index];
-        mp[curr]--;
+        mp[v2[index]]--;
         v2[index] += val;
         mp[v2[index]]++;
     }
 
     int count(int tot) {
         int res = 0;
-        for (int i = 0; i < v1.size(); i++) {
-            res += mp[tot - v1[i]];
-        }
+        for (int x : v1)
+            res += mp[tot - x];
         return res;
     }
 };
