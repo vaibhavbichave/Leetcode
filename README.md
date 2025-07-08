@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/vaibhavbichave/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vaibhavbichave/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vaibhavbichave/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vaibhavbichave/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0542-01-matrix) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vaibhavbichave/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vaibhavbichave/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -785,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vaibhavbichave/Leetcode/tree/master/0200-number-of-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/vaibhavbichave/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
