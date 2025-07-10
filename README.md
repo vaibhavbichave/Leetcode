@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibhavbichave/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vaibhavbichave/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2476-check-distances-between-same-letters](https://github.com/vaibhavbichave/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/vaibhavbichave/Leetcode/tree/master/2502-sort-the-people) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibhavbichave/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vaibhavbichave/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibhavbichave/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2509-minimize-xor) |
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/vaibhavbichave/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
@@ -815,4 +818,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/vaibhavbichave/Leetcode/tree/master/0382-linked-list-random-node) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
