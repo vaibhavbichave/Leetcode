@@ -4,7 +4,6 @@ public:
         queue<int> q;
         vector<vector<int>> g(n);
         vector<int> indegree(n, 0);
-        vector<bool> visited(n, false);
         for (auto prerequisite : prerequisites) {
             indegree[prerequisite[0]]++;
             g[prerequisite[1]].push_back(prerequisite[0]);
@@ -17,13 +16,10 @@ public:
             int node = q.front();
             q.pop();
             count++;
-            visited[node] = true;
             for (int it : g[node]) {
-                if (!visited[it]) {
-                    indegree[it]--;
-                    if (indegree[it] == 0)
-                        q.push(it);
-                }
+                indegree[it]--;
+                if (indegree[it] == 0)
+                    q.push(it);
             }
         }
         return count == n;
