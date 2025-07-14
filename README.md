@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vaibhavbichave/Leetcode/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhavbichave/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0567-permutation-in-string) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vaibhavbichave/Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/vaibhavbichave/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhavbichave/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -624,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vaibhavbichave/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/vaibhavbichave/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vaibhavbichave/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vaibhavbichave/Leetcode/tree/master/0207-course-schedule) |
