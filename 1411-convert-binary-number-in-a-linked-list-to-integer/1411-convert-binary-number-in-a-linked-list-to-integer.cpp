@@ -13,8 +13,7 @@ public:
     int getDecimalValue(ListNode* head) {
         int result = 0;
         while (head) {
-            result <<= 1;
-            result += head->val;
+            result = (result << 1) + head->val;
             head = head->next;
         }
         return result;
