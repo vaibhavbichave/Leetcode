@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vaibhavbichave/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vaibhavbichave/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3790-fruits-into-baskets-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3809-properties-graph](https://github.com/vaibhavbichave/Leetcode/tree/master/3809-properties-graph) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vaibhavbichave/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Math
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/vaibhavbichave/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/vaibhavbichave/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3790-fruits-into-baskets-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhavbichave/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibhavbichave/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vaibhavbichave/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3790-fruits-into-baskets-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -765,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavbichave/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2868-continuous-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -904,4 +908,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0976-minimum-area-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
