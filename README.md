@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavbichave/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0268-missing-number) |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavbichave/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vaibhavbichave/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0393-utf-8-validation](https://github.com/vaibhavbichave/Leetcode/tree/master/0393-utf-8-validation) |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavbichave/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavbichave/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/vaibhavbichave/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/vaibhavbichave/Leetcode/tree/master/0859-design-circular-deque) |
@@ -911,5 +913,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavbichave/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavbichave/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
