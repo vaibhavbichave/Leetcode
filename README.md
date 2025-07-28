@@ -743,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/vaibhavbichave/Leetcode/tree/master/0596-classes-more-than-5-students) |
+| [1179-game-play-analysis-i](https://github.com/vaibhavbichave/Leetcode/tree/master/1179-game-play-analysis-i) |
 ## Sliding Window
 |  |
 | ------- |
