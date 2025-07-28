@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vaibhavbichave/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaibhavbichave/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2509-minimize-xor) |
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibhavbichave/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -824,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibhavbichave/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
