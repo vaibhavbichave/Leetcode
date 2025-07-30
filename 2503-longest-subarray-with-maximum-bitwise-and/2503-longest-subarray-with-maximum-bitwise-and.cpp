@@ -1,17 +1,13 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int res = 0, len = 0, maxi = 0;
+        int res = 1, len = 0, maxi = 0;
         for (int x : nums)
             maxi = max(x, maxi);
         for (int x : nums) {
-            if ((maxi & x) == maxi) {
-                len++;
-                res = max(res, len);
-            } else {
-                len = 0;
-            }
+            len = ((maxi & x) == maxi) ? len + 1 : 0;
+            res = max(res, len);
         }
-        return max(res, 1);
+        return res;
     }
 };
