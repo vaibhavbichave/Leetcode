@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/vaibhavbichave/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/vaibhavbichave/Leetcode/tree/master/0860-design-circular-queue) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/vaibhavbichave/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/vaibhavbichave/Leetcode/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0976-minimum-area-rectangle) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/vaibhavbichave/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/vaibhavbichave/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vaibhavbichave/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/vaibhavbichave/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -824,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0268-missing-number) |
 | [0393-utf-8-validation](https://github.com/vaibhavbichave/Leetcode/tree/master/0393-utf-8-validation) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vaibhavbichave/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vaibhavbichave/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaibhavbichave/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
