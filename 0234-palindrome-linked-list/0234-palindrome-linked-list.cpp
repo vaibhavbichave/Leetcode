@@ -9,9 +9,17 @@
  * };
  */
 class Solution {
-public:
+private:
+    ListNode* getMiddle(ListNode* head) {
+        ListNode *slow = head, *fast = head;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
     ListNode* reverseList(ListNode* head) {
-        ListNode *prev = nullptr, *next, *curr = head;
+        ListNode *prev = nullptr, *curr = head, *next;
         while (curr) {
             next = curr->next;
             curr->next = prev;
@@ -20,19 +28,19 @@ public:
         }
         return prev;
     }
+
+public:
     bool isPalindrome(ListNode* head) {
-        ListNode *slow = head, *fast = head;
-        while (fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        ListNode *p1 = head, *p2 = reverseList(slow);
-        while (p1 && p2) {
-            if (p1->val != p2->val) {
+        if (!head || !head->next)
+            return head;
+        ListNode* mid = getMiddle(head);
+        ListNode* last = reverseList(mid);
+        ListNode* first = head;
+        while (first && last) {
+            if (first->val != last->val)
                 return false;
-            }
-            p1 = p1->next;
-            p2 = p2->next;
+            first = first->next;
+            last = last->next;
         }
         return true;
     }
