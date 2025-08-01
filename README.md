@@ -585,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/vaibhavbichave/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vaibhavbichave/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vaibhavbichave/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vaibhavbichave/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/vaibhavbichave/Leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibhavbichave/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaibhavbichave/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -892,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-merge-in-between-linked-lists](https://github.com/vaibhavbichave/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/vaibhavbichave/Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vaibhavbichave/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vaibhavbichave/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2411-spiral-matrix-iv](https://github.com/vaibhavbichave/Leetcode/tree/master/2411-spiral-matrix-iv) |
