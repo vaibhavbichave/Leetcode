@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhavbichave/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhavbichave/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/vaibhavbichave/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/vaibhavbichave/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/vaibhavbichave/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhavbichave/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhavbichave/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -676,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vaibhavbichave/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -684,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/vaibhavbichave/Leetcode/tree/master/0816-design-hashset) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vaibhavbichave/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
