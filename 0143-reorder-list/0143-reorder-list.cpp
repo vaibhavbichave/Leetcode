@@ -10,8 +10,8 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* node) {
-        ListNode *prev = nullptr, *curr = node, *next;
+    ListNode* reverse(ListNode* head) {
+        ListNode *prev = nullptr, *curr = head, *next;
         while (curr) {
             next = curr->next;
             curr->next = prev;
@@ -21,23 +21,21 @@ public:
         return prev;
     }
     void reorderList(ListNode* head) {
-        if (head && head->next && head->next->next) {
-            ListNode *slow = head, *fast = head;
-            while (fast && fast->next && fast->next->next) {
-                slow = slow->next;
-                fast = fast->next->next;
-            }
-            ListNode* last = reverse(slow->next);
-            slow->next = nullptr;
-            ListNode *first = head, *curr = head;
-            while (first && last) {
-                ListNode* firstNext = first->next;
-                ListNode* lastNext = last->next;
-                first->next = last;
-                last->next = firstNext;
-                last = lastNext;
-                first = firstNext;
-            }
+        ListNode *slow = head, *fast = head;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        ListNode* first = head;
+        ListNode* last = reverse(slow->next);
+        slow->next = nullptr;
+        while (first && last) {
+            ListNode* firstNext = first->next;
+            ListNode* lastNext = last->next;
+            first->next = last;
+            last->next = firstNext;
+            last = lastNext;
+            first = firstNext;
         }
     }
 };
