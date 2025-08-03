@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0112-path-sum) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -748,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhavbichave/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
