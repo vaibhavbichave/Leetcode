@@ -1,9 +1,9 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int n = fruits.size(), len = 0;
+        int count = 0, n = fruits.size();
         unordered_map<int, int> mp;
-        for (int j = 0, i = 0; i < n; i++) {
+        for (int i = 0, j = 0; i < n; i++) {
             mp[fruits[i]]++;
             while (mp.size() > 2) {
                 mp[fruits[j]]--;
@@ -12,8 +12,8 @@ public:
                 }
                 j++;
             }
-            len = max(len, i - j + 1);
+            count = max(count, i - j + 1);
         }
-        return len;
+        return count;
     }
 };
