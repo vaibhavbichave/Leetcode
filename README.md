@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavbichave/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/vaibhavbichave/Leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/vaibhavbichave/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhavbichave/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/vaibhavbichave/Leetcode/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavbichave/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vaibhavbichave/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhavbichave/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vaibhavbichave/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vaibhavbichave/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhavbichave/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
