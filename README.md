@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/vaibhavbichave/Leetcode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/vaibhavbichave/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavbichave/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vaibhavbichave/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
