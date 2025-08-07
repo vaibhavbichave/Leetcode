@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhavbichave/Leetcode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/vaibhavbichave/Leetcode/tree/master/0048-rotate-image) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
@@ -702,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhavbichave/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
