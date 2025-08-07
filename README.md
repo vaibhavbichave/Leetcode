@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavbichave/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavbichave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhavbichave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0136-single-number) |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavbichave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/vaibhavbichave/Leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/vaibhavbichave/Leetcode/tree/master/0338-counting-bits) |
