@@ -2,21 +2,19 @@ class Solution {
 public:
     void dfs(vector<vector<int>>& heights, vector<vector<bool>>& ocean, int row,
              int col) {
-        ocean[row][col] = true;
-        int curr = heights[row][col];
-        int n = heights.size(), m = heights[0].size();
-        if (row + 1 < n && !ocean[row + 1][col] &&
-            heights[row + 1][col] >= curr)
-            dfs(heights, ocean, row + 1, col);
-        if (row - 1 >= 0 && !ocean[row - 1][col] &&
-            heights[row - 1][col] >= curr)
-            dfs(heights, ocean, row - 1, col);
-        if (col + 1 < m && !ocean[row][col + 1] &&
-            heights[row][col + 1] >= curr)
-            dfs(heights, ocean, row, col + 1);
-        if (col - 1 >= 0 && !ocean[row][col - 1] &&
-            heights[row][col - 1] >= curr)
-            dfs(heights, ocean, row, col - 1);
+        if (!ocean[row][col]) {
+            ocean[row][col] = true;
+            int curr = heights[row][col];
+            int n = heights.size(), m = heights[0].size();
+            if (row + 1 < n && heights[row + 1][col] >= curr)
+                dfs(heights, ocean, row + 1, col);
+            if (row - 1 >= 0 && heights[row - 1][col] >= curr)
+                dfs(heights, ocean, row - 1, col);
+            if (col + 1 < m && heights[row][col + 1] >= curr)
+                dfs(heights, ocean, row, col + 1);
+            if (col - 1 >= 0 && heights[row][col - 1] >= curr)
+                dfs(heights, ocean, row, col - 1);
+        }
     }
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         vector<vector<int>> v;
