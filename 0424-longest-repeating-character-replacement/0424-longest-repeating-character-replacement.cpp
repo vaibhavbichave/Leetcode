@@ -6,9 +6,8 @@ public:
         for (int r = 0, l = 0; r < n; r++) {
             mp[s[r]]++;
             maxi = max(maxi, mp[s[r]]);
-            if (r - l + 1 - maxi > k) {
+            if (r - l + 1 - maxi > k) 
                 mp[s[l++]]--;
-            }
             len = max(len, r - l + 1);
         }
         return len;
