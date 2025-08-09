@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhavbichave/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vaibhavbichave/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vaibhavbichave/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/0053-maximum-subarray) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vaibhavbichave/Leetcode/tree/master/0070-climbing-stairs) |
@@ -661,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0143-reorder-list) |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhavbichave/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0086-partition-list) |
@@ -929,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibhavbichave/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vaibhavbichave/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
