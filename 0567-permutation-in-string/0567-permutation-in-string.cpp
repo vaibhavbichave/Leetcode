@@ -1,17 +1,25 @@
 class Solution {
 public:
+    bool isValid(unordered_map<char, int>& mp) {
+        for (auto [_, count] : mp)
+            if (count != 0)
+                return false;
+        return true;
+    }
     bool checkInclusion(string s1, string s2) {
         int n = s1.size(), m = s2.size();
-        vector<int> v(26, 0), vv(26, 0);
-        for (char chr : s1)
-            v[chr - 'a']++;
-        for (int i = 0; i < min(n, m); i++)
-            vv[s2[i] - 'a']++;
-        for (int i = n; i < m; i++) {
-            if (v == vv) return true;
-            vv[s2[i] - 'a']++;
-            vv[s2[i - n] - 'a']--;
+        if (m < n)
+            return false;
+        unordered_map<char, int> mp;
+        for (char x : s1)
+            mp[x]++;
+        for (int i = 0; i < m; i++) {
+            mp[s2[i]]--;
+            if (i - n >= 0)
+                mp[s2[i - n]]++;
+            if (isValid(mp))
+                return true;
         }
-        return v == vv;
+        return false;
     }
 };
