@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/vaibhavbichave/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vaibhavbichave/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vaibhavbichave/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/vaibhavbichave/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vaibhavbichave/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/vaibhavbichave/Leetcode/tree/master/0382-linked-list-random-node) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/vaibhavbichave/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vaibhavbichave/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhavbichave/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -937,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vaibhavbichave/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vaibhavbichave/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/vaibhavbichave/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vaibhavbichave/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/vaibhavbichave/Leetcode/tree/master/0371-sum-of-two-integers) |
