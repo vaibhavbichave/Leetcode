@@ -1,10 +1,10 @@
 class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
-        int k = nums.size(), n = nums.size();
+        int k = -1, n = nums.size();
         for (int i = 0; i < n; i++)
             if (nums[i] != i)
-                k = min(k, nums[i] & i);
-        return k == n ? 0 : k;
+                k = k & nums[i] & i;
+        return k == -1 ? 0 : k;
     }
 };
