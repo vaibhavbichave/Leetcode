@@ -1,24 +1,19 @@
 class Solution {
 public:
-    bool reorderedPowerOf2(int n) {
-        vector<vector<int>> v(31, vector<int>(10, 0));
-        for (int i = 0;i < 31; i++) {
-            int curr = 1 << i;
-            while (curr) {
-                int rem = curr % 10;
-                curr /= 10;
-                v[i][rem]++;
-            }
-        }
-        vector<int> vv(10, 0);
+    vector<int> getList(int n) {
+        vector<int> v(10, 0);
         while (n) {
-            int rem = n % 10;
+            v[n % 10]++;
             n /= 10;
-            vv[rem]++;
         }
-        for (auto curr : v)
-            if (curr == vv)
-                return true;
+        return v;
+    }
+    bool reorderedPowerOf2(int n) {
+        vector<int> l1 = getList(n);
+        for (int i = 0; i < 31; i++) {
+            vector<int> l2 = getList(1 << i);
+            if (l1 == l2) return true;
+        }
         return false;
     }
 };
