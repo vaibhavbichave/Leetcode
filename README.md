@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/vaibhavbichave/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0755-reach-a-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0755-reach-a-number) |
+| [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0976-minimum-area-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1236-n-th-tribonacci-number](https://github.com/vaibhavbichave/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1307-ugly-number-iii](https://github.com/vaibhavbichave/Leetcode/tree/master/1307-ugly-number-iii) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/vaibhavbichave/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhavbichave/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0976-minimum-area-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1333-sort-the-jumbled-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhavbichave/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/vaibhavbichave/Leetcode/tree/master/0816-design-hashset) |
+| [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/vaibhavbichave/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/vaibhavbichave/Leetcode/tree/master/0952-word-subsets) |
@@ -723,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhavbichave/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vaibhavbichave/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibhavbichave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vaibhavbichave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -1074,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/vaibhavbichave/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaibhavbichave/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Reservoir Sampling
