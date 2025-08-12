@@ -611,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/vaibhavbichave/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vaibhavbichave/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vaibhavbichave/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vaibhavbichave/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
