@@ -1,12 +1,10 @@
 class Solution {
 public:
     string largestGoodInteger(string num) {
-        string s;
-        for (int i = 2; i < num.size(); i++) {
-            string str = num.substr(i - 2, 3);
-            if (num[i - 2] == num[i - 1] && num[i - 1] == num[i] && s < str)
-                s = str;
-        }
-        return s;
+        char maxDigit = '\0';
+        for (int index = 0; index <= num.size() - 3; ++index)
+            if (num[index] == num[index + 1] && num[index] == num[index + 2])
+                maxDigit = max(maxDigit, num[index]);
+        return maxDigit == '\0' ? "" : string(3, maxDigit);
     }
 };
