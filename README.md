@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhavbichave/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhavbichave/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/vaibhavbichave/Leetcode/tree/master/0733-flood-fill) |
 | [0816-design-hashset](https://github.com/vaibhavbichave/Leetcode/tree/master/0816-design-hashset) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/vaibhavbichave/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhavbichave/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
@@ -724,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaibhavbichave/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/vaibhavbichave/Leetcode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0755-reach-a-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0755-reach-a-number) |
 | [1307-ugly-number-iii](https://github.com/vaibhavbichave/Leetcode/tree/master/1307-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vaibhavbichave/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -782,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/vaibhavbichave/Leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/vaibhavbichave/Leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0901-advantage-shuffle](https://github.com/vaibhavbichave/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0908-middle-of-the-linked-list) |
