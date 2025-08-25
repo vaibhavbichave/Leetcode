@@ -1,31 +1,21 @@
 class Solution {
 public:
-    vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
-        vector<int> v;
-        int i = 0, j = 0, top = 1;
-        int n = mat.size(), m = mat[0].size();
-        while (i >= 0 && j >= 0 && i < n && j < m) {
-            while (i >= 0 && j >= 0 && i < n && j < m) {
-                v.push_back(mat[i][j]);
-                if (top) {
-                    i--, j++;
-                } else {
-                    i++, j--;
-                }
-            }
-            if (top) {
-                i++;
-                if (j >= m) {
-                    j--, i++;
-                }
+    vector<int> findDiagonalOrder(vector<vector<int>>& matrix) {
+        int row = 0, col = 0;
+        int n = matrix.size(), m = matrix[0].size();
+        vector<int> result(n * m);
+        for (int i = 0; i < m * n; i++) {
+            result[i] = matrix[row][col];
+            if ((row + col) & 1) {
+                if (row == n - 1) col++;
+                else if (col == 0) row++;
+                else row++, col--;
             } else {
-                j++;
-                if (i >= n) {
-                    i--, j++;
-                }
+                if (col == m - 1) row++;
+                else if (row == 0) col++;
+                else col++, row--;
             }
-            top = top ^ 1;
         }
-        return v;
+        return result;
     }
 };
