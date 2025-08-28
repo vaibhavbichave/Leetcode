@@ -7,11 +7,10 @@ public:
         for (int i = 0; i < n; i++)
             mp[nums[i]] = i;
         for (auto operation : operations) {
+            nums[mp[operation[0]]] = operation[1];
             mp[operation[1]] = mp[operation[0]];
             mp.erase(operation[0]);
         }
-        for (auto [num, index] : mp)
-            nums[index] = num;
         return nums;
     }
 };
