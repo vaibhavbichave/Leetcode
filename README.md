@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/vaibhavbichave/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/vaibhavbichave/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
