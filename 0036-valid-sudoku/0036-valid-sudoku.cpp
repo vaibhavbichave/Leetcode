@@ -7,7 +7,8 @@ public:
                 if (board[i][j] != '.') {
                     int curr = board[i][j] - '0';
                     int mask = 1 << curr, idx = (i / 3) * 3 + j / 3;
-                    if ((row[i] & mask) || (col[j] & mask) || (inbox[idx] & mask))
+                    if ((row[i] & mask) || (col[j] & mask) ||
+                        (inbox[idx] & mask))
                         return false;
                     row[i] |= mask, col[j] |= mask, inbox[idx] |= mask;
                 }
