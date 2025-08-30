@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vaibhavbichave/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vaibhavbichave/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/vaibhavbichave/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/vaibhavbichave/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/vaibhavbichave/Leetcode/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -1005,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/vaibhavbichave/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaibhavbichave/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
