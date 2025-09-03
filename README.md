@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/vaibhavbichave/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/vaibhavbichave/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/vaibhavbichave/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2650-split-with-minimum-sum](https://github.com/vaibhavbichave/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vaibhavbichave/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vaibhavbichave/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1144,6 +1147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/vaibhavbichave/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaibhavbichave/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Reservoir Sampling
 |  |
@@ -1163,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0976-minimum-area-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Segment Tree
 |  |
