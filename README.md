@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/vaibhavbichave/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/vaibhavbichave/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
