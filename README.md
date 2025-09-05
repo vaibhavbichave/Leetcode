@@ -1047,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibhavbichave/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibhavbichave/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/vaibhavbichave/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vaibhavbichave/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vaibhavbichave/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1127,6 +1128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vaibhavbichave/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibhavbichave/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vaibhavbichave/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1148,6 +1150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/vaibhavbichave/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/vaibhavbichave/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaibhavbichave/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vaibhavbichave/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Reservoir Sampling
