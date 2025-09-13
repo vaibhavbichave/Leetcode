@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3462-vowels-game-in-a-string](https://github.com/vaibhavbichave/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/vaibhavbichave/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vaibhavbichave/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vaibhavbichave/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vaibhavbichave/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3809-properties-graph](https://github.com/vaibhavbichave/Leetcode/tree/master/3809-properties-graph) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vaibhavbichave/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -801,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vaibhavbichave/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vaibhavbichave/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
