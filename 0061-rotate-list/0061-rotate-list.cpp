@@ -10,29 +10,23 @@
  */
 class Solution {
 public:
-    int getSize(ListNode* node) {
-        int count = 0;
-        ListNode* temp = node;
-        while (temp) {
-            temp = temp->next;
-            count++;
-        }
-        return count;
-    }
     ListNode* rotateRight(ListNode* head, int k) {
-        ListNode* temp = head;
-        int n = getSize(head);
-        if (n == 0 || k % n == 0)
-            return head;
-        for (int i = 1; i < n - k % n; i++) {
-            head = head->next;
+        if(!head || !head->next) return head;
+        int length = 0;
+        for (ListNode* temp = head; temp; temp = temp->next, length++);
+        k %= length;
+        if (k > 0) {
+            k = length - k;
+            ListNode* temp = new ListNode(0, head);
+            while (k--) temp = temp->next;
+            ListNode* next = temp->next;
+            ListNode* result = next;
+            temp->next = nullptr;
+            while (next->next)
+                next = next->next;
+            next->next = head;
+            return result;
         }
-        ListNode * result = head->next;
-        ListNode* answer = result;
-        head->next = nullptr;
-        while (result->next)
-            result = result->next;
-        result->next = temp;
-        return answer;
+        return head;
     }
 };
