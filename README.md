@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/vaibhavbichave/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/vaibhavbichave/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavbichave/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavbichave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/vaibhavbichave/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/vaibhavbichave/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vaibhavbichave/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/vaibhavbichave/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vaibhavbichave/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/vaibhavbichave/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/vaibhavbichave/Leetcode/tree/master/0231-power-of-two) |
