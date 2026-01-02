@@ -10,47 +10,47 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* first, ListNode* second){
-        ListNode* result = new ListNode();
-        ListNode* mergeNode = result;
-        while(first && second){
-            if(first->val<second->val){
-                result->next = first;
-                first = first->next;
-                result = result->next;
-            }
-            else{
-                result->next = second;
-                second = second->next;
-                result = result->next;
-            }
-        }
-        while(first){
-            result->next = first;
-            first = first->next;
-            result = result->next;
-        }
-        while(second){
-            result->next = second;
-            second = second->next;
-            result = result->next;
-        }
-        return mergeNode->next;
-    }
-    ListNode* middleNode(ListNode* head){
-        ListNode *slow = head, *fast = head->next;
-        while(fast && fast->next){
+    ListNode* getMid(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
         return slow;
     }
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode dummy(0);
+        ListNode* temp = &dummy;
+        while (l1 && l2) {
+            if (l1->val < l2->val) {
+                temp->next = l1;
+                l1 = l1->next;
+            } else {
+                temp->next = l2;
+                l2 = l2->next;
+            }
+            temp = temp->next;
+        }
+        while (l1) {
+            temp->next = l1;
+            l1 = l1->next;
+            temp = temp->next;
+        }
+        while (l2) {
+            temp->next = l2;
+            l2 = l2->next;
+            temp = temp->next;
+        }
+        return dummy.next;
+    }
     ListNode* sortList(ListNode* head) {
-        if(!head || !head->next) return head;
-        ListNode *head2 = new ListNode(), *middle = new ListNode();
-        middle = middleNode(head);
-        head2 = middle->next;
-        middle->next = NULL;
-        return merge(sortList(head),sortList(head2));
+        if (!head || !head->next) return head;
+        ListNode* middle = getMid(head);
+        ListNode *left = head, *right = middle->next;
+        middle->next = nullptr;
+        left = sortList(left);
+        right = sortList(right);
+        return merge(left, right);
     }
 };
