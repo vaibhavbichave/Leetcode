@@ -1,14 +1,22 @@
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        for (int i = 0; i < nums.size() - 1; i++) {
-            if (nums[i] == nums[i + 1])
-                return nums[i];
-            if (i + 2 < nums.size() && nums[i] == nums[i + 2])
-                return nums[i];
-            if (i + 3 < nums.size() && nums[i] == nums[i + 3])
-                return nums[i];
+        if (nums[0] == nums[1] || nums[0] == nums[2])
+            return nums[0];
+        if (nums[1] == nums[2])
+            return nums[1];
+        int n = nums.size(), res = -1, cnt = 0;
+        for (int i = 3; i < n; i++) {
+            if (cnt > 0) {
+                if (res == nums[i])
+                    cnt++;
+                else
+                    cnt--;
+            } else {
+                cnt++;
+                res = nums[i];
+            }
         }
-        return -1;
+        return res;
     }
 };
