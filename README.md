@@ -673,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/vaibhavbichave/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/vaibhavbichave/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vaibhavbichave/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vaibhavbichave/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhavbichave/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vaibhavbichave/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
