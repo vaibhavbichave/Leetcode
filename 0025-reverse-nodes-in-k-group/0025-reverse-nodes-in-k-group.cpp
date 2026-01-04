@@ -24,18 +24,17 @@ public:
         ListNode* dummy = new ListNode(0, head);
         ListNode* node = dummy;
         while (node) {
-            ListNode *first = node, *last = node;
+            ListNode* last = node;
             int i = 0;
             while (i < k && last->next) {
                 i++, last = last->next;
             }
             if (i == k) {
-                node->next = reverse(first->next, last->next);
+                ListNode* next = node->next;
+                node->next = reverse(node->next, last->next);
+                node = next;
             } else {
                 break;
-            }
-            for (int j = 0; j < i; j++) {
-                node = node->next;
             }
         }
         return dummy->next;
