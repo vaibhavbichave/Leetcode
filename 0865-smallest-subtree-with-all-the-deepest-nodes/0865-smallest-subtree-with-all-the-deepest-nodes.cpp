@@ -12,17 +12,17 @@
  */
 class Solution {
 public:
-    pair<int, TreeNode*> dfs(TreeNode* node) {
-        if (!node) return {0, nullptr};
-        pair<int, TreeNode*> left = dfs(node->left);
-        pair<int, TreeNode*> right = dfs(node->right);
-        if (left.first > right.first) {
-            return {left.first + 1, left.second};
-        } else if (right.first > left.first) {
+    pair<int, TreeNode*> subtreeWithAllDeepestHelper(TreeNode* root) {
+        if (!root) return {0, nullptr};
+        auto left = subtreeWithAllDeepestHelper(root->left);
+        auto right = subtreeWithAllDeepestHelper(root->right);
+        if (left.first < right.first)
             return {right.first + 1, right.second};
-        }
-        return {left.first + 1, node};
+        if (right.first < left.first)
+            return {left.first + 1, left.second};
+        return {left.first + 1, root};
     }
-
-    TreeNode* subtreeWithAllDeepest(TreeNode* root) { return dfs(root).second; }
+    TreeNode* subtreeWithAllDeepest(TreeNode* root) {
+        return subtreeWithAllDeepestHelper(root).second;
+    }
 };
