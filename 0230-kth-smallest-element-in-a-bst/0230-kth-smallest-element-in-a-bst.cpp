@@ -21,8 +21,7 @@ public:
             }
             root = st.top();
             st.pop();
-            if (--k == 0)
-                break;
+            if (k-- == 1) break;
             root = root->right;
         }
         return root->val;
