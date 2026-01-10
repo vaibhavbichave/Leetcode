@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/vaibhavbichave/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vaibhavbichave/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-minimum-area-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1025-minimum-cost-for-tickets](https://github.com/vaibhavbichave/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/vaibhavbichave/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/vaibhavbichave/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vaibhavbichave/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vaibhavbichave/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhavbichave/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaibhavbichave/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -778,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0931-maximum-frequency-stack](https://github.com/vaibhavbichave/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibhavbichave/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/vaibhavbichave/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -968,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhavbichave/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavbichave/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhavbichave/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1064,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibhavbichave/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vaibhavbichave/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
