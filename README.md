@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/vaibhavbichave/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavbichave/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavbichave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhavbichave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -681,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/vaibhavbichave/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhavbichave/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vaibhavbichave/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavbichave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vaibhavbichave/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vaibhavbichave/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavbichave/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/vaibhavbichave/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vaibhavbichave/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vaibhavbichave/Leetcode/tree/master/0221-maximal-square) |
@@ -773,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhavbichave/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/vaibhavbichave/Leetcode/tree/master/0143-reorder-list) |
@@ -1068,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhavbichave/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/vaibhavbichave/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavbichave/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhavbichave/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibhavbichave/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
